@@ -1,6 +1,6 @@
 # magicmouse
 
-This is a mirror repository for Apple Magic Mouse 1 (removable batteries) and 2 (embedded battery) drivers.
+This is a mirror repository for Apple Magic Mouse 1 (removable batteries) and 2 (embedded battery) drivers. Use your magic mouse on any bluetooth enabled Windows machine.
 
 ### Whats the purpose
 
