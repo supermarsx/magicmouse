@@ -4,7 +4,7 @@ This is a mirror repository for Apple Magic Mouse 1 (removable batteries) and 2 
 
 ### Whats the purpose
 
-These packages are not readily available to end users and sometimes you'll not be able to find anywhere without downloading bootcamp from MacOS. These packages fix issues such as not being able to scroll or not detecting the device properly. Usually changes are ready and functional right after install but you may need to restart in some circunstances.
+These packages are not readily available to end users and sometimes you'll not be able to find anywhere without downloading bootcamp from MacOS. These packages fix issues such as not being able to scroll or not detecting the device properly. Usually changes are ready and functional right after install but you may need to restart in some circumstances.
 
 ### File table
 
